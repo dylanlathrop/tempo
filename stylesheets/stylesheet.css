@@ -49,6 +49,8 @@ Theme Styles
 *******************************************************************************/
 
 body {
+  background-color:#000;
+  background-image:https://dl.dropboxusercontent.com/u/5403232/Tempo%20Mocks/pngs/tempo_background.png (tempo_background.png);
   box-sizing: border-box;
   color:#e1e1e1;
   font-size: 16px;
